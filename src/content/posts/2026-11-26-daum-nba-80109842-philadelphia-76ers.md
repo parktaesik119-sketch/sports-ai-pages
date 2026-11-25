@@ -19,7 +19,7 @@ summary: "양 팀의 전력 비교를 보면, 마이애미 히트가 최근 흐�
 homeRecent: "[{\"date\":\"26.11.24\",\"home\":\"필라델피아 76ers\",\"away\":\"포틀랜드 트레일블레이저스\",\"score\":\"111-128\",\"result\":\"🔴패\"},{\"date\":\"26.11.22\",\"home\":\"필라델피아 76ers\",\"away\":\"밀워키 벅스\",\"score\":\"132-129\",\"result\":\"🟢승\"},{\"date\":\"26.11.19\",\"home\":\"올랜도 매직\",\"away\":\"필라델피아 76ers\",\"score\":\"116-121\",\"result\":\"🟢승\"},{\"date\":\"26.11.17\",\"home\":\"브루클린 네츠\",\"away\":\"필라델피아 76ers\",\"score\":\"123-135\",\"result\":\"🟢승\"},{\"date\":\"26.11.16\",\"home\":\"필라델피아 76ers\",\"away\":\"인디애나 페이서스\",\"score\":\"131-124\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.23\",\"home\":\"마이애미 히트\",\"away\":\"오클라호마시티 썬더\",\"score\":\"123-113\",\"result\":\"🟢승\"},{\"date\":\"26.11.19\",\"home\":\"마이애미 히트\",\"away\":\"밀워키 벅스\",\"score\":\"137-130\",\"result\":\"🟢승\"},{\"date\":\"26.11.17\",\"home\":\"마이애미 히트\",\"away\":\"휴스턴 로키츠\",\"score\":\"128-110\",\"result\":\"🟢승\"},{\"date\":\"26.11.15\",\"home\":\"마이애미 히트\",\"away\":\"디트로이트 피스톤스\",\"score\":\"137-117\",\"result\":\"🟢승\"},{\"date\":\"26.11.14\",\"home\":\"마이애미 히트\",\"away\":\"클리블랜드 캐벌리어스\",\"score\":\"133-121\",\"result\":\"🟢승\"}]"
 injuryHome: "Joel Embiid[주요](Out) | Ariel Hukporti[주요](Out - Surgery)"
-injuryAway: "Giannis Antetokounmpo[경미](Day-To-Day)"
+injuryAway: "없음"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
