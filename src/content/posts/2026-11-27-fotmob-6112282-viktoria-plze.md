@@ -25,7 +25,7 @@ awayLineup: "[\"Anatoliy Trubin (GK)|https://images.fotmob.com/image_resources/p
 homeFormation: "3-4-2-1"
 awayFormation: "4-2-3-1"
 homeCoach: "Radoslav Kováč|https://images.fotmob.com/image_resources/playerimages/34590.png"
-awayCoach: ""
+awayCoach: "Marco Silva|https://images.fotmob.com/image_resources/playerimages/164124.png"
 pickWinTeam: "벤피카"
 pickWinResult: "승"
 pickHandicapTeam: "벤피카"
