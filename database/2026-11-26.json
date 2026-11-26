@@ -1933,8 +1933,8 @@
     "away": "Al-Gharafa II",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1345067.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2109588.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5103733",
@@ -2661,8 +2661,8 @@
     "away": "Aurora FC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9933.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/188294.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "fotmob-5906582",
@@ -2726,8 +2726,8 @@
     "away": "CD FAS",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1280075.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49742.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-6775371",
@@ -2739,8 +2739,8 @@
     "away": "CD Águila",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1783449.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/49739.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-5916109",
@@ -3129,8 +3129,8 @@
     "away": "Atlas",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6618.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6577.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000022853",
@@ -3142,8 +3142,8 @@
     "away": "CF América",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7849.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6576.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000023197",
@@ -3155,8 +3155,8 @@
     "away": "Independiente Rivadavia",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10077.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/161729.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000023183",
@@ -3233,8 +3233,8 @@
     "away": "Independiente Medellín",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6368.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2528.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000018521",
@@ -3272,8 +3272,8 @@
     "away": "Al Markhiya",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1791633.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/582508.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "fotmob-1000018634",
@@ -3285,8 +3285,8 @@
     "away": "Al-Shamal II",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101902.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/582510.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 0
   },
   {
     "id": "fotmob-1000018632",
@@ -3324,8 +3324,8 @@
     "away": "Independiente del Valle",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6453.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/192875.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 1
   },
   {
     "id": "fotmob-5967161",
@@ -9434,8 +9434,8 @@
     "away": "San Jose Sharks",
     "homeLogo": "https://highlightly.net/hockey/images/teams/570954.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/593931.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 7,
+    "awayScore": 0
   },
   {
     "id": "highlightly-hockey-378692380",
@@ -9447,8 +9447,8 @@
     "away": "Chicago Blackhawks",
     "homeLogo": "https://highlightly.net/hockey/images/teams/1222820.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/577762.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378691529",
@@ -9460,8 +9460,8 @@
     "away": "Montreal Canadiens",
     "homeLogo": "https://highlightly.net/hockey/images/teams/578613.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/586272.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 6,
+    "awayScore": 0
   },
   {
     "id": "highlightly-hockey-378689827",
@@ -9473,8 +9473,8 @@
     "away": "Utah Mammoth",
     "homeLogo": "https://highlightly.net/hockey/images/teams/585421.png",
     "awayLogo": null,
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-378688976",
@@ -9486,8 +9486,8 @@
     "away": "Nashville Predators",
     "homeLogo": "https://highlightly.net/hockey/images/teams/580315.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/587123.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378688125",
@@ -9499,8 +9499,8 @@
     "away": "Vancouver Canucks",
     "homeLogo": "https://highlightly.net/hockey/images/teams/581166.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/597335.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 1
   },
   {
     "id": "highlightly-hockey-378687274",
@@ -9512,8 +9512,8 @@
     "away": "New York Rangers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/574358.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/589676.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 1
   },
   {
     "id": "highlightly-hockey-378686423",
@@ -9525,8 +9525,8 @@
     "away": "New Jersey Devils",
     "homeLogo": "https://highlightly.net/hockey/images/teams/579464.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/587974.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378685572",
@@ -9538,8 +9538,8 @@
     "away": "Ottawa Senators",
     "homeLogo": "https://highlightly.net/hockey/images/teams/582868.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/590527.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 5,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378684721",
@@ -9551,8 +9551,8 @@
     "away": "St. Louis Blues",
     "homeLogo": "https://highlightly.net/hockey/images/teams/588825.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/594782.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 2
   },
   {
     "id": "highlightly-hockey-378683870",
@@ -9564,8 +9564,8 @@
     "away": "Winnipeg Jets",
     "homeLogo": "https://highlightly.net/hockey/images/teams/573507.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/599888.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 4
   },
   {
     "id": "highlightly-hockey-378683019",
@@ -9577,8 +9577,8 @@
     "away": "Carolina Hurricanes",
     "homeLogo": "https://highlightly.net/hockey/images/teams/595633.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/576060.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 1,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378682168",
@@ -9590,8 +9590,8 @@
     "away": "Philadelphia Flyers",
     "homeLogo": "https://highlightly.net/hockey/images/teams/599037.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/592229.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 7,
+    "awayScore": 3
   },
   {
     "id": "highlightly-hockey-378681317",
@@ -9603,8 +9603,8 @@
     "away": "Calgary Flames",
     "homeLogo": "https://highlightly.net/hockey/images/teams/593080.png",
     "awayLogo": "https://highlightly.net/hockey/images/teams/575209.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 6
   },
   {
     "id": "highlightly-hockey-366547759",
@@ -9941,8 +9941,8 @@
     "away": "Chicago Bulls",
     "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/30_300300.png",
     "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/4_300300.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 105,
+    "awayScore": 107
   },
   {
     "id": "daum-nba-80109844",
@@ -9954,8 +9954,8 @@
     "away": "Cleveland Cavaliers",
     "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/18_300300.png",
     "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/5_300300.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 121,
+    "awayScore": 102
   },
   {
     "id": "daum-nba-80109845",
@@ -9967,8 +9967,8 @@
     "away": "Minnesota Timberwolves",
     "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/25_300300.png",
     "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/16_300300.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 106,
+    "awayScore": 113
   },
   {
     "id": "daum-nba-80109846",
@@ -9980,8 +9980,8 @@
     "away": "Brooklyn Nets",
     "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/15_300300.png",
     "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/17_300300.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 97,
+    "awayScore": 104
   },
   {
     "id": "daum-nba-80109847",
@@ -9993,8 +9993,8 @@
     "away": "LA Clippers",
     "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/29_300300.png",
     "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/12_300300.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 115,
+    "awayScore": 97
   },
   {
     "id": "daum-nba-80109848",
@@ -10006,8 +10006,8 @@
     "away": "Phoenix Suns",
     "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/10_300300.png",
     "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/21_300300.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 116,
+    "awayScore": 104
   },
   {
     "id": "daum-nba-80109849",
@@ -10019,8 +10019,8 @@
     "away": "Sacramento Kings",
     "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/9_300300.png",
     "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/23_300300.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 129,
+    "awayScore": 110
   },
   {
     "id": "daum-nba-80109850",
@@ -10032,8 +10032,8 @@
     "away": "San Antonio Spurs",
     "homeLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/22_300300.png",
     "awayLogo": "https://t1.daumcdn.net/media/img-section/sports13/logo/team/12/24_300300.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 116,
+    "awayScore": 111
   },
   {
     "id": "daum-nba-80109851",
