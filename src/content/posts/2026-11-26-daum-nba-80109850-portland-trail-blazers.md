@@ -19,7 +19,7 @@ summary: "샌안토니오 스퍼스는 리그순위 1위(승률 .833)에 최근 
 homeRecent: "[{\"date\":\"26.11.24\",\"home\":\"필라델피아 76ers\",\"away\":\"포틀랜드 트레일블레이저스\",\"score\":\"111-128\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"뉴욕 닉스\",\"away\":\"포틀랜드 트레일블레이저스\",\"score\":\"97-96\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"밀워키 벅스\",\"away\":\"포틀랜드 트레일블레이저스\",\"score\":\"114-124\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"미네소타 팀버울브스\",\"away\":\"포틀랜드 트레일블레이저스\",\"score\":\"106-105\",\"result\":\"🔴패\"},{\"date\":\"26.11.17\",\"home\":\"미네소타 팀버울브스\",\"away\":\"포틀랜드 트레일블레이저스\",\"score\":\"106-98\",\"result\":\"🔴패\"}]"
 awayRecent: "[{\"date\":\"26.11.24\",\"home\":\"새크라멘토 킹스\",\"away\":\"샌안토니오 스퍼스\",\"score\":\"107-123\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"샌안토니오 스퍼스\",\"away\":\"뉴올리언스 펠리컨스\",\"score\":\"114-91\",\"result\":\"🟢승\"},{\"date\":\"26.11.20\",\"home\":\"샌안토니오 스퍼스\",\"away\":\"LA 클리퍼스\",\"score\":\"124-112\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"샌안토니오 스퍼스\",\"away\":\"디트로이트 피스톤스\",\"score\":\"93-105\",\"result\":\"🔴패\"},{\"date\":\"26.11.16\",\"home\":\"유타 재즈\",\"away\":\"샌안토니오 스퍼스\",\"score\":\"102-110\",\"result\":\"🟢승\"}]"
 injuryHome: "Chris Youngblood[주요](Out - Bruise) | Vit Krejci[주요](Out) | Ja Morant[주요](Out - Not Specified) | Shaedon Sharpe[주요](Out - Surgery)"
-injuryAway: "De'Aaron Fox[경미](Day-To-Day - Bruise) | Victor Wembanyama[경미](Day-To-Day) | Dylan Harper[주요](Out - Soreness) | Tobias Harris[주요](Out - Strain) | Jayden Quaintance[주요](Out - Surgery)"
+injuryAway: "De'Aaron Fox[주요](Out - Bruise) | Dylan Harper[주요](Out - Soreness) | Tobias Harris[주요](Out - Strain) | Jayden Quaintance[주요](Out - Surgery)"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
