@@ -19,7 +19,7 @@ summary: "양 팀 전력에서 뉴저지 데블스가 확실히 앞서 있습니
 homeRecent: "[{\"date\":\"26.11.24\",\"home\":\"뉴저지 데블스\",\"away\":\"콜럼버스 블루재킷츠\",\"score\":\"3-2\",\"result\":\"🔴패\"},{\"date\":\"26.11.22\",\"home\":\"토론토 메이플 리프스\",\"away\":\"콜럼버스 블루재킷츠\",\"score\":\"3-4\",\"result\":\"🟢승\"},{\"date\":\"26.11.20\",\"home\":\"시카고 블랙호크스\",\"away\":\"콜럼버스 블루재킷츠\",\"score\":\"2-4\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"뉴욕 아일런더스\",\"away\":\"콜럼버스 블루재킷츠\",\"score\":\"5-1\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"콜럼버스 블루재킷츠\",\"away\":\"필라델피아 플라이어스\",\"score\":\"3-4\",\"result\":\"🔴패\"}]"
 awayRecent: "[{\"date\":\"26.11.24\",\"home\":\"뉴저지 데블스\",\"away\":\"콜럼버스 블루재킷츠\",\"score\":\"3-2\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"세인트루이스 블루스\",\"away\":\"뉴저지 데블스\",\"score\":\"9-6\",\"result\":\"🔴패\"},{\"date\":\"26.11.19\",\"home\":\"뉴저지 데블스\",\"away\":\"몬트리올 캐네이디언스\",\"score\":\"2-3\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"워싱턴 캐피털스\",\"away\":\"뉴저지 데블스\",\"score\":\"4-7\",\"result\":\"🟢승\"},{\"date\":\"26.11.13\",\"home\":\"뉴저지 데블스\",\"away\":\"워싱턴 캐피털스\",\"score\":\"5-2\",\"result\":\"🟢승\"}]"
 injuryHome: "Denton Mateychuk[주요](Out)"
-injuryAway: "Brenden Dillon[주요](Suspension) | Anthony Mantha[주요](Injured Reserve) | Johnathan Kovacevic[주요](Injured Reserve - Not Specified) | Seamus Casey[주요](Injured Reserve)"
+injuryAway: "Declan Chisholm[주요](Out) | Brenden Dillon[주요](Suspension) | Anthony Mantha[주요](Injured Reserve) | Johnathan Kovacevic[주요](Injured Reserve - Not Specified) | Seamus Casey[주요](Injured Reserve)"
 homeLineup: "[\"선발투수 C. Talbot|https://a.espncdn.com/i/headshots/mlb/players/full/5734.png\"]"
 awayLineup: "[\"선발투수 C. Hellebuyck|https://a.espncdn.com/i/headshots/mlb/players/full/3020225.png\"]"
 homeFormation: ""
