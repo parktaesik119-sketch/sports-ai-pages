@@ -19,7 +19,7 @@ summary: "디트로이트 피스톤스는 최근 10경기에서 7승 3패로 흐
 homeRecent: "[{\"date\":\"26.11.25\",\"home\":\"올랜도 매직\",\"away\":\"디트로이트 피스톤스\",\"score\":\"86-104\",\"result\":\"🟢승\"},{\"date\":\"26.11.23\",\"home\":\"애틀랜타 호크스\",\"away\":\"디트로이트 피스톤스\",\"score\":\"107-97\",\"result\":\"🔴패\"},{\"date\":\"26.11.21\",\"home\":\"디트로이트 피스톤스\",\"away\":\"토론토 랩터스\",\"score\":\"102-105\",\"result\":\"🔴패\"},{\"date\":\"26.11.19\",\"home\":\"뉴올리언스 펠리컨스\",\"away\":\"디트로이트 피스톤스\",\"score\":\"109-122\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"샌안토니오 스퍼스\",\"away\":\"디트로이트 피스톤스\",\"score\":\"93-105\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.26\",\"home\":\"밀워키 벅스\",\"away\":\"브루클린 네츠\",\"score\":\"97-104\",\"result\":\"🔴패\"},{\"date\":\"26.11.24\",\"home\":\"토론토 랩터스\",\"away\":\"밀워키 벅스\",\"score\":\"111-116\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"필라델피아 76ers\",\"away\":\"밀워키 벅스\",\"score\":\"132-129\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"밀워키 벅스\",\"away\":\"포틀랜드 트레일블레이저스\",\"score\":\"114-124\",\"result\":\"🔴패\"},{\"date\":\"26.11.19\",\"home\":\"마이애미 히트\",\"away\":\"밀워키 벅스\",\"score\":\"137-130\",\"result\":\"🔴패\"}]"
 injuryHome: "Duncan Robinson[주요](Out - Strain) | Cade Cunningham[주요](Out) | Jalen Duren[주요](Out - Strain) | Ebuka Okorie[주요](Out - Strain) | Taurean Prince[주요](Out - Surgery)"
-injuryAway: "없음"
+injuryAway: "Kasparas Jakucionis[주요](Out)"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
