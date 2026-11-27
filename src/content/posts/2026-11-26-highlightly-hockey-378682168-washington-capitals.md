@@ -19,7 +19,7 @@ summary: "워싱턴 캐피털스는 평균 득점 3.5의 화력을 앞세워 홈
 homeRecent: "[{\"date\":\"26.11.22\",\"home\":\"보스턴 브루인스\",\"away\":\"워싱턴 캐피털스\",\"score\":\"7-5\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"워싱턴 캐피털스\",\"away\":\"버펄로 세이버스\",\"score\":\"3-6\",\"result\":\"🔴패\"},{\"date\":\"26.11.18\",\"home\":\"탬파베이 라이트닝\",\"away\":\"워싱턴 캐피털스\",\"score\":\"5-2\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"워싱턴 캐피털스\",\"away\":\"뉴저지 데블스\",\"score\":\"4-7\",\"result\":\"🔴패\"},{\"date\":\"26.11.13\",\"home\":\"뉴저지 데블스\",\"away\":\"워싱턴 캐피털스\",\"score\":\"5-2\",\"result\":\"🔴패\"}]"
 awayRecent: "[{\"date\":\"26.11.22\",\"home\":\"몬트리올 캐네이디언스\",\"away\":\"필라델피아 플라이어스\",\"score\":\"3-4\",\"result\":\"🟢승\"},{\"date\":\"26.11.20\",\"home\":\"오타와 세너터스\",\"away\":\"필라델피아 플라이어스\",\"score\":\"5-6\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"필라델피아 플라이어스\",\"away\":\"버펄로 세이버스\",\"score\":\"4-3\",\"result\":\"🟢승\"},{\"date\":\"26.11.16\",\"home\":\"필라델피아 플라이어스\",\"away\":\"에드먼턴 오일러스\",\"score\":\"2-5\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"콜럼버스 블루재킷츠\",\"away\":\"필라델피아 플라이어스\",\"score\":\"3-4\",\"result\":\"🟢승\"}]"
 injuryHome: "Jordan Kyrou[주요](Injured Reserve - Not Specified) | Rasmus Sandin[주요](Injured Reserve - Surgery)"
-injuryAway: "Nikita Grebenkin[주요](Injured Reserve)"
+injuryAway: "Matvei Michkov[주요](Out) | Nikita Grebenkin[주요](Injured Reserve)"
 homeLineup: "[\"선발투수 L. Thompson|https://a.espncdn.com/i/headshots/mlb/players/full/4272888.png\"]"
 awayLineup: "[\"선발투수 D. Vladar|https://a.espncdn.com/i/headshots/mlb/players/full/3942459.png\"]"
 homeFormation: ""
