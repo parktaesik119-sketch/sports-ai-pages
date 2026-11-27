@@ -19,7 +19,7 @@ summary: "워싱턴 캐피털스는 최근 25경기에서 13승 12패, 플로리
 homeRecent: "[{\"date\":\"26.11.22\",\"home\":\"보스턴 브루인스\",\"away\":\"워싱턴 캐피털스\",\"score\":\"7-5\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"워싱턴 캐피털스\",\"away\":\"버펄로 세이버스\",\"score\":\"3-6\",\"result\":\"🔴패\"},{\"date\":\"26.11.18\",\"home\":\"탬파베이 라이트닝\",\"away\":\"워싱턴 캐피털스\",\"score\":\"5-2\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"워싱턴 캐피털스\",\"away\":\"뉴저지 데블스\",\"score\":\"4-7\",\"result\":\"🔴패\"},{\"date\":\"26.11.13\",\"home\":\"뉴저지 데블스\",\"away\":\"워싱턴 캐피털스\",\"score\":\"5-2\",\"result\":\"🔴패\"}]"
 awayRecent: "[{\"date\":\"26.11.22\",\"home\":\"플로리다 팬더스\",\"away\":\"버펄로 세이버스\",\"score\":\"4-3\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"플로리다 팬더스\",\"away\":\"에드먼턴 오일러스\",\"score\":\"2-5\",\"result\":\"🔴패\"},{\"date\":\"26.11.16\",\"home\":\"댈러스 스타스\",\"away\":\"플로리다 팬더스\",\"score\":\"2-1\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"세인트루이스 블루스\",\"away\":\"플로리다 팬더스\",\"score\":\"1-4\",\"result\":\"🟢승\"},{\"date\":\"26.11.13\",\"home\":\"플로리다 팬더스\",\"away\":\"디트로이트 레드윙스\",\"score\":\"5-4\",\"result\":\"🟢승\"}]"
 injuryHome: "Jordan Kyrou[주요](Injured Reserve - Not Specified) | Rasmus Sandin[주요](Injured Reserve - Surgery)"
-injuryAway: "Jonah Gadjovich[주요](Injured Reserve - Surgery)"
+injuryAway: "Garnet Hathaway[주요](Out) | Jonah Gadjovich[주요](Injured Reserve - Surgery)"
 homeLineup: "[\"선발투수 L. Thompson|https://a.espncdn.com/i/headshots/mlb/players/full/4272888.png\"]"
 awayLineup: "[\"선발투수 J. Markstrom|https://a.espncdn.com/i/headshots/mlb/players/full/5452.png\"]"
 homeFormation: ""
