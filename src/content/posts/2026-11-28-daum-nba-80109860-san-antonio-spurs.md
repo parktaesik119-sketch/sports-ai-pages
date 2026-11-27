@@ -19,7 +19,7 @@ summary: "두 팀은 최근 맞대결에서 LA 레이커스가 88대84로 이긴
 homeRecent: "[{\"date\":\"26.11.26\",\"home\":\"포틀랜드 트레일블레이저스\",\"away\":\"샌안토니오 스퍼스\",\"score\":\"116-111\",\"result\":\"🔴패\"},{\"date\":\"26.11.24\",\"home\":\"새크라멘토 킹스\",\"away\":\"샌안토니오 스퍼스\",\"score\":\"107-123\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"샌안토니오 스퍼스\",\"away\":\"뉴올리언스 펠리컨스\",\"score\":\"114-91\",\"result\":\"🟢승\"},{\"date\":\"26.11.20\",\"home\":\"샌안토니오 스퍼스\",\"away\":\"LA 클리퍼스\",\"score\":\"124-112\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"샌안토니오 스퍼스\",\"away\":\"디트로이트 피스톤스\",\"score\":\"93-105\",\"result\":\"🔴패\"}]"
 awayRecent: "[{\"date\":\"26.11.24\",\"home\":\"LA 레이커스\",\"away\":\"유타 재즈\",\"score\":\"109-94\",\"result\":\"🟢승\"},{\"date\":\"26.11.21\",\"home\":\"LA 레이커스\",\"away\":\"새크라멘토 킹스\",\"score\":\"106-104\",\"result\":\"🟢승\"},{\"date\":\"26.11.19\",\"home\":\"LA 레이커스\",\"away\":\"유타 재즈\",\"score\":\"97-109\",\"result\":\"🔴패\"},{\"date\":\"26.11.18\",\"home\":\"LA 레이커스\",\"away\":\"샬럿 호네츠\",\"score\":\"118-114\",\"result\":\"🟢승\"},{\"date\":\"26.11.16\",\"home\":\"피닉스 선즈\",\"away\":\"LA 레이커스\",\"score\":\"123-131\",\"result\":\"🟢승\"}]"
 injuryHome: "Dylan Harper[주요](Out - Strain) | De'Aaron Fox[경미](Day-To-Day - Bruise) | Tobias Harris[주요](Out - Strain) | Jayden Quaintance[주요](Out - Surgery)"
-injuryAway: "Austin Reaves[주요](Out - Bruise)"
+injuryAway: "없음"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
