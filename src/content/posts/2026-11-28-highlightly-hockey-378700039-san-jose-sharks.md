@@ -19,7 +19,7 @@ summary: "이번 경기는 상위권인 베가스 골든나이츠와 홈에서 �
 homeRecent: "[{\"date\":\"26.11.24\",\"home\":\"산호세 샤크스\",\"away\":\"미네소타 와일드\",\"score\":\"2-5\",\"result\":\"🔴패\"},{\"date\":\"26.11.22\",\"home\":\"산호세 샤크스\",\"away\":\"시애틀 크라켄\",\"score\":\"4-3\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"산호세 샤크스\",\"away\":\"캘거리 플레임스\",\"score\":\"2-5\",\"result\":\"🔴패\"},{\"date\":\"26.11.16\",\"home\":\"산호세 샤크스\",\"away\":\"내슈빌 프레데터스\",\"score\":\"4-2\",\"result\":\"🟢승\"},{\"date\":\"26.11.15\",\"home\":\"유타 매머드\",\"away\":\"산호세 샤크스\",\"score\":\"5-6\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.25\",\"home\":\"에드먼턴 오일러스\",\"away\":\"베가스 골든나이츠\",\"score\":\"3-5\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"위니펙 제츠\",\"away\":\"베가스 골든나이츠\",\"score\":\"4-5\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"베가스 골든나이츠\",\"away\":\"댈러스 스타스\",\"score\":\"3-4\",\"result\":\"🔴패\"},{\"date\":\"26.11.16\",\"home\":\"베가스 골든나이츠\",\"away\":\"밴쿠버 카넉스\",\"score\":\"3-6\",\"result\":\"🔴패\"},{\"date\":\"26.11.14\",\"home\":\"베가스 골든나이츠\",\"away\":\"내슈빌 프레데터스\",\"score\":\"2-3\",\"result\":\"🔴패\"}]"
 injuryHome: "Jacob Trouba[주요](Out) | Kiefer Sherwood[주요](Injured Reserve - Not Specified) | Igor Chernyshov[주요](Injured Reserve) | Quentin Musty[주요](Injured Reserve) | Kyle Keyser[주요](Injured Reserve)"
-injuryAway: "Marc Gatcomb[경미](Day-To-Day)"
+injuryAway: "없음"
 homeLineup: "[\"선발투수 Y. Askarov|https://a.espncdn.com/i/headshots/mlb/players/full/4697394.png\"]"
 awayLineup: "[\"선발투수 C. Hart|https://a.espncdn.com/i/headshots/mlb/players/full/4064582.png\"]"
 homeFormation: ""
