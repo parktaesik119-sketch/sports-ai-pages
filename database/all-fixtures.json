@@ -1135983,8 +1135983,8 @@
     "away": "Al-Waab SC",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/479161.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1803046.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 3,
+    "awayScore": 3
   },
   {
     "id": "fotmob-1000021471",
@@ -1136698,8 +1136698,8 @@
     "away": "Nacional",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/395613.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8304.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000022851",
@@ -1136711,8 +1136711,8 @@
     "away": "Chivas",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7848.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7807.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 2,
+    "awayScore": 1
   },
   {
     "id": "fotmob-1000022852",
@@ -1136724,8 +1136724,8 @@
     "away": "Cruz Azul",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1841.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/6578.png",
-    "homeScore": null,
-    "awayScore": null
+    "homeScore": 0,
+    "awayScore": 4
   },
   {
     "id": "fotmob-6735963",
@@ -1142431,6 +1142431,19 @@
     "away": "Schalke 04",
     "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8460.png",
     "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10189.png",
+    "homeScore": null,
+    "awayScore": null
+  },
+  {
+    "id": "fotmob-5875030",
+    "sport": "soccer",
+    "country": "Austria",
+    "league": "2. Liga",
+    "date": "2026-11-28T14:30:00.000Z",
+    "home": "SKU Amstetten",
+    "away": "SKN St. Pölten",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8326.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1907.png",
     "homeScore": null,
     "awayScore": null
   },
