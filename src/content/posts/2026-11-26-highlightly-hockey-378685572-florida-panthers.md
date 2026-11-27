@@ -19,7 +19,7 @@ summary: "두 팀의 최근 흐름을 비교하면, 원정팀 오타와 세너�
 homeRecent: "[{\"date\":\"26.11.22\",\"home\":\"플로리다 팬더스\",\"away\":\"버펄로 세이버스\",\"score\":\"4-3\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"플로리다 팬더스\",\"away\":\"에드먼턴 오일러스\",\"score\":\"2-5\",\"result\":\"🔴패\"},{\"date\":\"26.11.16\",\"home\":\"댈러스 스타스\",\"away\":\"플로리다 팬더스\",\"score\":\"2-1\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"세인트루이스 블루스\",\"away\":\"플로리다 팬더스\",\"score\":\"1-4\",\"result\":\"🟢승\"},{\"date\":\"26.11.13\",\"home\":\"플로리다 팬더스\",\"away\":\"디트로이트 레드윙스\",\"score\":\"5-4\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.24\",\"home\":\"오타와 세너터스\",\"away\":\"캘거리 플레임스\",\"score\":\"2-1\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"오타와 세너터스\",\"away\":\"LA 킹스\",\"score\":\"4-2\",\"result\":\"🟢승\"},{\"date\":\"26.11.20\",\"home\":\"오타와 세너터스\",\"away\":\"필라델피아 플라이어스\",\"score\":\"5-6\",\"result\":\"🔴패\"},{\"date\":\"26.11.18\",\"home\":\"위니펙 제츠\",\"away\":\"오타와 세너터스\",\"score\":\"1-2\",\"result\":\"🟢승\"},{\"date\":\"26.11.15\",\"home\":\"피츠버그 펭귄스\",\"away\":\"오타와 세너터스\",\"score\":\"1-4\",\"result\":\"🟢승\"}]"
 injuryHome: "Jonah Gadjovich[주요](Injured Reserve - Surgery)"
-injuryAway: "Andre Burakovsky[주요](Injured Reserve) | Hayden Hodgson[주요](Injured Reserve) | Warren Foegele[주요](Injured Reserve) | William Eklund[주요](Injured Reserve)"
+injuryAway: "Hayden Hodgson[주요](Injured Reserve) | Warren Foegele[주요](Injured Reserve) | William Eklund[주요](Injured Reserve)"
 homeLineup: "[\"선발투수 J. Markstrom|https://a.espncdn.com/i/headshots/mlb/players/full/5452.png\"]"
 awayLineup: "[\"선발투수 L. Ullmark|https://a.espncdn.com/i/headshots/mlb/players/full/3069285.png\"]"
 homeFormation: ""
