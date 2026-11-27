@@ -19,7 +19,7 @@ summary: "전력 비교를 보면 뉴욕 닉스는 승률 70%와 리그순위 3�
 homeRecent: "[{\"date\":\"26.11.26\",\"home\":\"뉴욕 닉스\",\"away\":\"클리블랜드 캐벌리어스\",\"score\":\"121-102\",\"result\":\"🟢승\"},{\"date\":\"26.11.23\",\"home\":\"뉴욕 닉스\",\"away\":\"인디애나 페이서스\",\"score\":\"113-106\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"뉴욕 닉스\",\"away\":\"포틀랜드 트레일블레이저스\",\"score\":\"97-96\",\"result\":\"🟢승\"},{\"date\":\"26.11.20\",\"home\":\"미네소타 팀버울브스\",\"away\":\"뉴욕 닉스\",\"score\":\"99-102\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"토론토 랩터스\",\"away\":\"뉴욕 닉스\",\"score\":\"102-111\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.26\",\"home\":\"필라델피아 76ers\",\"away\":\"마이애미 히트\",\"score\":\"111-104\",\"result\":\"🔴패\"},{\"date\":\"26.11.23\",\"home\":\"마이애미 히트\",\"away\":\"오클라호마시티 썬더\",\"score\":\"123-113\",\"result\":\"🟢승\"},{\"date\":\"26.11.19\",\"home\":\"마이애미 히트\",\"away\":\"밀워키 벅스\",\"score\":\"137-130\",\"result\":\"🟢승\"},{\"date\":\"26.11.17\",\"home\":\"마이애미 히트\",\"away\":\"휴스턴 로키츠\",\"score\":\"128-110\",\"result\":\"🟢승\"},{\"date\":\"26.11.15\",\"home\":\"마이애미 히트\",\"away\":\"디트로이트 피스톤스\",\"score\":\"137-117\",\"result\":\"🟢승\"}]"
 injuryHome: "Miles McBride[주요](Out - Soreness) | OG Anunoby[주요](Out - Soreness) | Jordan Clarkson[주요](Out - Plantar Fasciitis) | Karl-Anthony Towns[경미](Day-To-Day - Bruise) | Andre Drummond[주요](Out - Not Specified)"
-injuryAway: "Giannis Antetokounmpo[경미](Day-To-Day)"
+injuryAway: "없음"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
