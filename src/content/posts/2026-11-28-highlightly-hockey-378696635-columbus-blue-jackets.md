@@ -19,7 +19,7 @@ summary: "최근 5경기에서 홈이 4실점 이하로 막아내며 승리를 �
 homeRecent: "[{\"date\":\"26.11.24\",\"home\":\"뉴저지 데블스\",\"away\":\"콜럼버스 블루재킷츠\",\"score\":\"3-2\",\"result\":\"🔴패\"},{\"date\":\"26.11.22\",\"home\":\"토론토 메이플 리프스\",\"away\":\"콜럼버스 블루재킷츠\",\"score\":\"3-4\",\"result\":\"🟢승\"},{\"date\":\"26.11.20\",\"home\":\"시카고 블랙호크스\",\"away\":\"콜럼버스 블루재킷츠\",\"score\":\"2-4\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"뉴욕 아일런더스\",\"away\":\"콜럼버스 블루재킷츠\",\"score\":\"5-1\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"콜럼버스 블루재킷츠\",\"away\":\"필라델피아 플라이어스\",\"score\":\"3-4\",\"result\":\"🔴패\"}]"
 awayRecent: "[{\"date\":\"26.11.22\",\"home\":\"디트로이트 레드윙스\",\"away\":\"뉴욕 아일런더스\",\"score\":\"2-3\",\"result\":\"🔴패\"},{\"date\":\"26.11.19\",\"home\":\"디트로이트 레드윙스\",\"away\":\"보스턴 브루인스\",\"score\":\"1-4\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"탬파베이 라이트닝\",\"away\":\"디트로이트 레드윙스\",\"score\":\"0-2\",\"result\":\"🟢승\"},{\"date\":\"26.11.13\",\"home\":\"플로리다 팬더스\",\"away\":\"디트로이트 레드윙스\",\"score\":\"5-4\",\"result\":\"🔴패\"},{\"date\":\"26.11.11\",\"home\":\"세인트루이스 블루스\",\"away\":\"디트로이트 레드윙스\",\"score\":\"3-2\",\"result\":\"🔴패\"}]"
 injuryHome: "Denton Mateychuk[주요](Out)"
-injuryAway: "William Wallinder[경미](Day-To-Day - Not Specified) | Sam Montembeault[주요](Injured Reserve) | Simon Edvinsson[주요](Injured Reserve)"
+injuryAway: "William Wallinder[주요](Out - Not Specified) | Sam Montembeault[주요](Injured Reserve) | Simon Edvinsson[주요](Injured Reserve)"
 homeLineup: "[\"선발투수 C. Talbot|https://a.espncdn.com/i/headshots/mlb/players/full/5734.png\"]"
 awayLineup: "[\"선발투수 J. Gibson|https://a.espncdn.com/i/headshots/mlb/players/full/2590824.png\"]"
 homeFormation: ""
