@@ -19,7 +19,7 @@ summary: "양 팀을 비교하면 미네소타 와일드가 리그순위 1위로
 homeRecent: "[{\"date\":\"26.11.24\",\"home\":\"산호세 샤크스\",\"away\":\"미네소타 와일드\",\"score\":\"2-5\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"밴쿠버 카넉스\",\"away\":\"미네소타 와일드\",\"score\":\"4-3\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"캘거리 플레임스\",\"away\":\"미네소타 와일드\",\"score\":\"1-4\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"미네소타 와일드\",\"away\":\"내슈빌 프레데터스\",\"score\":\"7-3\",\"result\":\"🟢승\"},{\"date\":\"26.11.15\",\"home\":\"보스턴 브루인스\",\"away\":\"미네소타 와일드\",\"score\":\"2-6\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.20\",\"home\":\"콜로라도 애벌랜치\",\"away\":\"애너하임 덕스\",\"score\":\"4-0\",\"result\":\"🟢승\"},{\"date\":\"26.11.19\",\"home\":\"유타 매머드\",\"away\":\"콜로라도 애벌랜치\",\"score\":\"4-1\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"몬트리올 캐네이디언스\",\"away\":\"콜로라도 애벌랜치\",\"score\":\"1-4\",\"result\":\"🟢승\"},{\"date\":\"26.11.13\",\"home\":\"오타와 세너터스\",\"away\":\"콜로라도 애벌랜치\",\"score\":\"4-3\",\"result\":\"🔴패\"},{\"date\":\"26.11.11\",\"home\":\"토론토 메이플 리프스\",\"away\":\"콜로라도 애벌랜치\",\"score\":\"3-6\",\"result\":\"🟢승\"}]"
 injuryHome: "Quinn Hughes[주요](Injured Reserve) | Olli Maatta[주요](Injured Reserve)"
-injuryAway: "Gavin Brindley[주요](Out) | Nathan MacKinnon[주요](Out) | Josh Manson[주요](Injured Reserve) | Zachary L'Heureux[주요](Injured Reserve)"
+injuryAway: "Gavin Brindley[주요](Injured Reserve) | Nathan MacKinnon[주요](Out) | Josh Manson[주요](Injured Reserve) | Zachary L'Heureux[주요](Injured Reserve)"
 homeLineup: "[\"선발투수 J. Wallstedt|https://a.espncdn.com/i/headshots/mlb/players/full/4874737.png\"]"
 awayLineup: "[\"선발투수 M. Blackwood|https://a.espncdn.com/i/headshots/mlb/players/full/3904177.png\"]"
 homeFormation: ""
