@@ -19,7 +19,7 @@ summary: "두 팀의 현재 흐름을 보면 피닉스 선즈가 최근 10경기
 homeRecent: "[{\"date\":\"26.11.26\",\"home\":\"휴스턴 로키츠\",\"away\":\"피닉스 선즈\",\"score\":\"116-104\",\"result\":\"🔴패\"},{\"date\":\"26.11.24\",\"home\":\"뉴올리언스 펠리컨스\",\"away\":\"피닉스 선즈\",\"score\":\"119-123\",\"result\":\"🟢승\"},{\"date\":\"26.11.21\",\"home\":\"유타 재즈\",\"away\":\"피닉스 선즈\",\"score\":\"101-111\",\"result\":\"🟢승\"},{\"date\":\"26.11.19\",\"home\":\"새크라멘토 킹스\",\"away\":\"피닉스 선즈\",\"score\":\"107-128\",\"result\":\"🟢승\"},{\"date\":\"26.11.17\",\"home\":\"덴버 너기츠\",\"away\":\"피닉스 선즈\",\"score\":\"105-117\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.25\",\"home\":\"덴버 너기츠\",\"away\":\"댈러스 매버릭스\",\"score\":\"101-120\",\"result\":\"🟢승\"},{\"date\":\"26.11.23\",\"home\":\"유타 재즈\",\"away\":\"댈러스 매버릭스\",\"score\":\"114-116\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"댈러스 매버릭스\",\"away\":\"LA 클리퍼스\",\"score\":\"110-100\",\"result\":\"🟢승\"},{\"date\":\"26.11.19\",\"home\":\"댈러스 매버릭스\",\"away\":\"골든스테이트 워리어스\",\"score\":\"116-94\",\"result\":\"🟢승\"},{\"date\":\"26.11.16\",\"home\":\"보스턴 셀틱스\",\"away\":\"댈러스 매버릭스\",\"score\":\"131-94\",\"result\":\"🔴패\"}]"
 injuryHome: "Mark Williams[주요](Out - Surgery)"
-injuryAway: "Kyrie Irving[경미](Day-To-Day - Not Specified) | Tobi Lawal[주요](Out - Strain) | Sergio de Larrea[주요](Out - Strain) | Dereck Lively II[주요](Out - Surgery) | Tarik Biberovic[주요](Out - Inflammation)"
+injuryAway: "Kyrie Irving[주요](Out - Not Specified) | Tobi Lawal[주요](Out - Strain) | Sergio de Larrea[주요](Out - Strain) | Dereck Lively II[주요](Out - Surgery) | Tarik Biberovic[주요](Out - Inflammation)"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
