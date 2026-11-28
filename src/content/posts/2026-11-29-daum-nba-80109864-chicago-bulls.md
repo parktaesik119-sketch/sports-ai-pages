@@ -19,7 +19,7 @@ summary: "시카고 불스는 최근 10경기에서 5승 5패로 승률을 되�
 homeRecent: "[{\"date\":\"26.11.26\",\"home\":\"샬럿 호네츠\",\"away\":\"시카고 불스\",\"score\":\"105-107\",\"result\":\"🟢승\"},{\"date\":\"26.11.24\",\"home\":\"시카고 불스\",\"away\":\"클리블랜드 캐벌리어스\",\"score\":\"122-108\",\"result\":\"🟢승\"},{\"date\":\"26.11.23\",\"home\":\"시카고 불스\",\"away\":\"덴버 너기츠\",\"score\":\"145-151\",\"result\":\"🔴패\"},{\"date\":\"26.11.21\",\"home\":\"시카고 불스\",\"away\":\"워싱턴 위저즈\",\"score\":\"94-98\",\"result\":\"🔴패\"},{\"date\":\"26.11.19\",\"home\":\"브루클린 네츠\",\"away\":\"시카고 불스\",\"score\":\"107-137\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.24\",\"home\":\"인디애나 페이서스\",\"away\":\"오클라호마시티 썬더\",\"score\":\"125-120\",\"result\":\"🟢승\"},{\"date\":\"26.11.23\",\"home\":\"뉴욕 닉스\",\"away\":\"인디애나 페이서스\",\"score\":\"113-106\",\"result\":\"🔴패\"},{\"date\":\"26.11.21\",\"home\":\"클리블랜드 캐벌리어스\",\"away\":\"인디애나 페이서스\",\"score\":\"128-119\",\"result\":\"🔴패\"},{\"date\":\"26.11.19\",\"home\":\"인디애나 페이서스\",\"away\":\"휴스턴 로키츠\",\"score\":\"104-119\",\"result\":\"🔴패\"},{\"date\":\"26.11.16\",\"home\":\"필라델피아 76ers\",\"away\":\"인디애나 페이서스\",\"score\":\"131-124\",\"result\":\"🔴패\"}]"
 injuryHome: "Norman Powell[주요](Out - Strain) | Noa Essengue[경미](Day-To-Day) | Jalen Smith[경미](Day-To-Day) | Caleb Wilson[주요](Out)"
-injuryAway: "T.J. McConnell[주요](Out) | Tyrese Haliburton[주요](Out - Strain) | Ben Sheppard[주요](Out)"
+injuryAway: "Tyrese Haliburton[주요](Out - Strain) | T.J. McConnell[주요](Out) | Ben Sheppard[주요](Out)"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
