@@ -19,7 +19,7 @@ summary: "두 팀은 최근 시즌에서 승률 53%와 52%로 매우 근소한 �
 homeRecent: "[{\"date\":\"26.11.25\",\"home\":\"워싱턴 위저즈\",\"away\":\"보스턴 셀틱스\",\"score\":\"116-131\",\"result\":\"🔴패\"},{\"date\":\"26.11.23\",\"home\":\"워싱턴 위저즈\",\"away\":\"올랜도 매직\",\"score\":\"116-96\",\"result\":\"🟢승\"},{\"date\":\"26.11.21\",\"home\":\"시카고 불스\",\"away\":\"워싱턴 위저즈\",\"score\":\"94-98\",\"result\":\"🟢승\"},{\"date\":\"26.11.19\",\"home\":\"토론토 랩터스\",\"away\":\"워싱턴 위저즈\",\"score\":\"99-103\",\"result\":\"🟢승\"},{\"date\":\"26.11.17\",\"home\":\"워싱턴 위저즈\",\"away\":\"멤피스 그리즐리\",\"score\":\"120-136\",\"result\":\"🔴패\"}]"
 awayRecent: "[{\"date\":\"26.11.25\",\"home\":\"올랜도 매직\",\"away\":\"디트로이트 피스톤스\",\"score\":\"86-104\",\"result\":\"🔴패\"},{\"date\":\"26.11.23\",\"home\":\"워싱턴 위저즈\",\"away\":\"올랜도 매직\",\"score\":\"116-96\",\"result\":\"🔴패\"},{\"date\":\"26.11.21\",\"home\":\"브루클린 네츠\",\"away\":\"올랜도 매직\",\"score\":\"111-113\",\"result\":\"🟢승\"},{\"date\":\"26.11.19\",\"home\":\"올랜도 매직\",\"away\":\"필라델피아 76ers\",\"score\":\"116-121\",\"result\":\"🔴패\"},{\"date\":\"26.11.17\",\"home\":\"보스턴 셀틱스\",\"away\":\"올랜도 매직\",\"score\":\"105-115\",\"result\":\"🟢승\"}]"
 injuryHome: "Tristan Vukcevic[주요](Out - Pinched Nerve) | Reece Beekman[주요](Out) | Justin Champagnie[주요](Out - Not Specified) | Jamir Watkins[주요](Out - Surgery)"
-injuryAway: "Colin Castleton[주요](Out - Soreness) | Kevin Porter Jr.[주요](Out) | Anthony Black[경미](Day-To-Day) | Jonathan Isaac[주요](Out - Not Specified) | Izaiyah Nelson[주요](Out - Surgery)"
+injuryAway: "Colin Castleton[주요](Out) | Kevin Porter Jr.[주요](Out) | Anthony Black[경미](Day-To-Day) | Jonathan Isaac[주요](Out - Not Specified) | Izaiyah Nelson[주요](Out - Surgery)"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
