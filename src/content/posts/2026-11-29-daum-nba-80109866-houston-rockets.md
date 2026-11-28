@@ -19,7 +19,7 @@ summary: "두 팀은 최근 흐름에서 모두 10경기 8승 2패로 매우 유
 homeRecent: "[{\"date\":\"26.11.26\",\"home\":\"휴스턴 로키츠\",\"away\":\"피닉스 선즈\",\"score\":\"116-104\",\"result\":\"🟢승\"},{\"date\":\"26.11.24\",\"home\":\"휴스턴 로키츠\",\"away\":\"LA 클리퍼스\",\"score\":\"116-104\",\"result\":\"🟢승\"},{\"date\":\"26.11.21\",\"home\":\"덴버 너기츠\",\"away\":\"휴스턴 로키츠\",\"score\":\"133-124\",\"result\":\"🔴패\"},{\"date\":\"26.11.19\",\"home\":\"인디애나 페이서스\",\"away\":\"휴스턴 로키츠\",\"score\":\"104-119\",\"result\":\"🟢승\"},{\"date\":\"26.11.17\",\"home\":\"마이애미 히트\",\"away\":\"휴스턴 로키츠\",\"score\":\"128-110\",\"result\":\"🔴패\"}]"
 awayRecent: "[{\"date\":\"26.11.26\",\"home\":\"필라델피아 76ers\",\"away\":\"마이애미 히트\",\"score\":\"111-104\",\"result\":\"🟢승\"},{\"date\":\"26.11.24\",\"home\":\"필라델피아 76ers\",\"away\":\"포틀랜드 트레일블레이저스\",\"score\":\"111-128\",\"result\":\"🔴패\"},{\"date\":\"26.11.22\",\"home\":\"필라델피아 76ers\",\"away\":\"밀워키 벅스\",\"score\":\"132-129\",\"result\":\"🟢승\"},{\"date\":\"26.11.19\",\"home\":\"올랜도 매직\",\"away\":\"필라델피아 76ers\",\"score\":\"116-121\",\"result\":\"🟢승\"},{\"date\":\"26.11.17\",\"home\":\"브루클린 네츠\",\"away\":\"필라델피아 76ers\",\"score\":\"123-135\",\"result\":\"🟢승\"}]"
 injuryHome: "Steven Adams[경미](Day-To-Day)"
-injuryAway: "Dean Wade[주요](Out) | Jaylen Brown[주요](Out) | Ariel Hukporti[주요](Out - Surgery)"
+injuryAway: "LeBron James[주요](Out) | Joel Embiid[주요](Out - Plantar Fasciitis) | Dean Wade[주요](Out) | Jaylen Brown[주요](Out) | Ariel Hukporti[주요](Out - Surgery)"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
