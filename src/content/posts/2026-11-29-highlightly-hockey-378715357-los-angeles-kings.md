@@ -19,7 +19,7 @@ summary: "LA 킹스는 최근 10경기에서 5승 5패로 살아나는 흐름을
 homeRecent: "[{\"date\":\"26.11.28\",\"home\":\"애너하임 덕스\",\"away\":\"LA 킹스\",\"score\":\"3-5\",\"result\":\"🟢승\"},{\"date\":\"26.11.24\",\"home\":\"몬트리올 캐네이디언스\",\"away\":\"LA 킹스\",\"score\":\"1-2\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"오타와 세너터스\",\"away\":\"LA 킹스\",\"score\":\"4-2\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"토론토 메이플 리프스\",\"away\":\"LA 킹스\",\"score\":\"3-4\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"보스턴 브루인스\",\"away\":\"LA 킹스\",\"score\":\"0-3\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.28\",\"home\":\"애너하임 덕스\",\"away\":\"LA 킹스\",\"score\":\"3-5\",\"result\":\"🔴패\"},{\"date\":\"26.11.26\",\"home\":\"애너하임 덕스\",\"away\":\"산호세 샤크스\",\"score\":\"7-0\",\"result\":\"🟢승\"},{\"date\":\"26.11.24\",\"home\":\"시애틀 크라켄\",\"away\":\"애너하임 덕스\",\"score\":\"3-2\",\"result\":\"🔴패\"},{\"date\":\"26.11.22\",\"home\":\"유타 매머드\",\"away\":\"애너하임 덕스\",\"score\":\"3-2\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"콜로라도 애벌랜치\",\"away\":\"애너하임 덕스\",\"score\":\"4-0\",\"result\":\"🔴패\"}]"
 injuryHome: "Erik Gustafsson[주요](Injured Reserve - Fracture) | Jakub Dvorak[주요](Injured Reserve)"
-injuryAway: "Leo Carlsson[주요](Injured Reserve) | Ryan Poehling[주요](Injured Reserve) | A.J. Greer[주요](Injured Reserve)"
+injuryAway: "Leo Carlsson[주요](Injured Reserve) | A.J. Greer[주요](Injured Reserve)"
 homeLineup: "[\"선발투수 A. Forsberg|https://a.espncdn.com/i/headshots/mlb/players/full/3036851.png\"]"
 awayLineup: "[\"선발투수 L. Dostal|https://a.espncdn.com/i/headshots/mlb/players/full/4588165.png\"]"
 homeFormation: ""
