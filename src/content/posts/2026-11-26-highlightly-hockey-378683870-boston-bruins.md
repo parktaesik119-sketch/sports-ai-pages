@@ -19,7 +19,7 @@ summary: "보스턴 브루인스는 최근 10경기에서 6승 4패로 승리가
 homeRecent: "[{\"date\":\"26.11.22\",\"home\":\"보스턴 브루인스\",\"away\":\"워싱턴 캐피털스\",\"score\":\"7-5\",\"result\":\"🟢승\"},{\"date\":\"26.11.19\",\"home\":\"디트로이트 레드윙스\",\"away\":\"보스턴 브루인스\",\"score\":\"1-4\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"보스턴 브루인스\",\"away\":\"LA 킹스\",\"score\":\"0-3\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"보스턴 브루인스\",\"away\":\"미네소타 와일드\",\"score\":\"2-6\",\"result\":\"🔴패\"},{\"date\":\"26.11.13\",\"home\":\"보스턴 브루인스\",\"away\":\"몬트리올 캐네이디언스\",\"score\":\"2-5\",\"result\":\"🔴패\"}]"
 awayRecent: "[{\"date\":\"26.11.24\",\"home\":\"위니펙 제츠\",\"away\":\"유타 매머드\",\"score\":\"4-2\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"위니펙 제츠\",\"away\":\"베가스 골든나이츠\",\"score\":\"4-5\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"위니펙 제츠\",\"away\":\"뉴욕 아일런더스\",\"score\":\"4-3\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"위니펙 제츠\",\"away\":\"오타와 세너터스\",\"score\":\"1-2\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"시카고 블랙호크스\",\"away\":\"위니펙 제츠\",\"score\":\"4-5\",\"result\":\"🟢승\"}]"
 injuryHome: "David Pastrnak[경미](Day-To-Day) | James Hagens[주요](Injured Reserve)"
-injuryAway: "Dylan DeMelo[주요](Injured Reserve) | Isak Rosen[주요](Injured Reserve) | Vladislav Namestnikov[주요](Injured Reserve - Not Specified) | Nick Bjugstad[주요](Injured Reserve - Surgery)"
+injuryAway: "Dylan DeMelo[주요](Injured Reserve) | Isak Rosen[주요](Injured Reserve) | Vladislav Namestnikov[주요](Injured Reserve - Not Specified)"
 homeLineup: "[\"선발투수 J. Swayman|https://a.espncdn.com/i/headshots/mlb/players/full/4712036.png\"]"
 awayLineup: "[\"선발투수 S. Skinner|https://a.espncdn.com/i/headshots/mlb/players/full/4268767.png\"]"
 homeFormation: ""
