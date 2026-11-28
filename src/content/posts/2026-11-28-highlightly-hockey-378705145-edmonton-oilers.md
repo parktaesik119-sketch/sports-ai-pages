@@ -19,7 +19,7 @@ summary: "에드먼턴 오일러스는 리그순위 2위를 유지하며 홈경�
 homeRecent: "[{\"date\":\"26.11.25\",\"home\":\"에드먼턴 오일러스\",\"away\":\"베가스 골든나이츠\",\"score\":\"3-5\",\"result\":\"🔴패\"},{\"date\":\"26.11.23\",\"home\":\"세인트루이스 블루스\",\"away\":\"에드먼턴 오일러스\",\"score\":\"5-4\",\"result\":\"🔴패\"},{\"date\":\"26.11.22\",\"home\":\"캐롤라이나 허리케인스\",\"away\":\"에드먼턴 오일러스\",\"score\":\"7-4\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"탬파베이 라이트닝\",\"away\":\"에드먼턴 오일러스\",\"score\":\"3-1\",\"result\":\"🔴패\"},{\"date\":\"26.11.18\",\"home\":\"플로리다 팬더스\",\"away\":\"에드먼턴 오일러스\",\"score\":\"2-5\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.26\",\"home\":\"시애틀 크라켄\",\"away\":\"시카고 블랙호크스\",\"score\":\"1-3\",\"result\":\"🔴패\"},{\"date\":\"26.11.24\",\"home\":\"시애틀 크라켄\",\"away\":\"애너하임 덕스\",\"score\":\"3-2\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"산호세 샤크스\",\"away\":\"시애틀 크라켄\",\"score\":\"4-3\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"시애틀 크라켄\",\"away\":\"밴쿠버 카넉스\",\"score\":\"5-1\",\"result\":\"🟢승\"},{\"date\":\"26.11.15\",\"home\":\"캐롤라이나 허리케인스\",\"away\":\"시애틀 크라켄\",\"score\":\"5-1\",\"result\":\"🔴패\"}]"
 injuryHome: "Filip Hallander[주요](Out - Sprain) | Zach Hyman[주요](Out) | Alec Regula[주요](Injured Reserve) | Matt Savoie[주요](Injured Reserve - Not Specified) | Frederik Andersen[주요](Injured Reserve)"
-injuryAway: "Jake O'Brien[주요](Injured Reserve) | Jared McCann[주요](Injured Reserve)"
+injuryAway: "Philipp Grubauer[경미](Day-To-Day) | Jake O'Brien[주요](Injured Reserve) | Jared McCann[주요](Injured Reserve)"
 homeLineup: "[\"선발투수 T. Jarry|https://a.espncdn.com/i/headshots/mlb/players/full/3042020.png\"]"
 awayLineup: "[\"선발투수 J. Daccord|https://a.espncdn.com/i/headshots/mlb/players/full/3942073.png\"]"
 homeFormation: ""
