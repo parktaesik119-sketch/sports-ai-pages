@@ -19,7 +19,7 @@ summary: "뉴욕 레인저스는 평균 3.1득점의 안정적인 화력과 홈 
 homeRecent: "[{\"date\":\"26.11.26\",\"home\":\"버펄로 세이버스\",\"away\":\"뉴욕 레인저스\",\"score\":\"5-1\",\"result\":\"🔴패\"},{\"date\":\"26.11.23\",\"home\":\"뉴욕 레인저스\",\"away\":\"캐롤라이나 허리케인스\",\"score\":\"2-5\",\"result\":\"🔴패\"},{\"date\":\"26.11.17\",\"home\":\"뉴욕 레인저스\",\"away\":\"몬트리올 캐네이디언스\",\"score\":\"3-1\",\"result\":\"🟢승\"},{\"date\":\"26.11.14\",\"home\":\"밴쿠버 카넉스\",\"away\":\"뉴욕 레인저스\",\"score\":\"1-5\",\"result\":\"🟢승\"},{\"date\":\"26.11.12\",\"home\":\"캘거리 플레임스\",\"away\":\"뉴욕 레인저스\",\"score\":\"1-3\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.28\",\"home\":\"뉴저지 데블스\",\"away\":\"캘거리 플레임스\",\"score\":\"5-3\",\"result\":\"🔴패\"},{\"date\":\"26.11.26\",\"home\":\"피츠버그 펭귄스\",\"away\":\"캘거리 플레임스\",\"score\":\"3-6\",\"result\":\"🟢승\"},{\"date\":\"26.11.24\",\"home\":\"오타와 세너터스\",\"away\":\"캘거리 플레임스\",\"score\":\"2-1\",\"result\":\"🔴패\"},{\"date\":\"26.11.22\",\"home\":\"캘거리 플레임스\",\"away\":\"시카고 블랙호크스\",\"score\":\"3-4\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"캘거리 플레임스\",\"away\":\"미네소타 와일드\",\"score\":\"1-4\",\"result\":\"🔴패\"}]"
 injuryHome: "Gabe Perreault[주요](Injured Reserve) | Pavel Dorofeyev[주요](Injured Reserve) | Oliver Bjorkstrand[주요](Injured Reserve - Not Specified) | Alberts Smits[주요](Injured Reserve) | Joe Veleno[주요](Injured Reserve)"
-injuryAway: "Brennan Othmann[주요](Out) | Kevin Bahl[주요](Injured Reserve - Surgery)"
+injuryAway: "Brennan Othmann[주요](Out) | Jonathan Huberdeau[주요](Injured Reserve - Surgery) | Kevin Bahl[주요](Injured Reserve - Surgery)"
 homeLineup: "[\"선발투수 J. Korpisalo|https://a.espncdn.com/i/headshots/mlb/players/full/3069266.png\"]"
 awayLineup: "[\"선발투수 D. Wolf|https://a.espncdn.com/i/headshots/mlb/players/full/4587952.png\"]"
 homeFormation: ""
