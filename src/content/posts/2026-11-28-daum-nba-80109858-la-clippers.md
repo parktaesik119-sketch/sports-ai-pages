@@ -19,7 +19,7 @@ summary: "LA 클리퍼스와 뉴올리언스 펠리컨스는 이번 시즌 맞�
 homeRecent: "[{\"date\":\"26.11.26\",\"home\":\"멤피스 그리즐리\",\"away\":\"LA 클리퍼스\",\"score\":\"115-97\",\"result\":\"🔴패\"},{\"date\":\"26.11.24\",\"home\":\"휴스턴 로키츠\",\"away\":\"LA 클리퍼스\",\"score\":\"116-104\",\"result\":\"🔴패\"},{\"date\":\"26.11.22\",\"home\":\"댈러스 매버릭스\",\"away\":\"LA 클리퍼스\",\"score\":\"110-100\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"샌안토니오 스퍼스\",\"away\":\"LA 클리퍼스\",\"score\":\"124-112\",\"result\":\"🔴패\"},{\"date\":\"26.11.18\",\"home\":\"LA 클리퍼스\",\"away\":\"유타 재즈\",\"score\":\"107-132\",\"result\":\"🔴패\"}]"
 awayRecent: "[{\"date\":\"26.11.24\",\"home\":\"뉴올리언스 펠리컨스\",\"away\":\"피닉스 선즈\",\"score\":\"119-123\",\"result\":\"🔴패\"},{\"date\":\"26.11.22\",\"home\":\"샌안토니오 스퍼스\",\"away\":\"뉴올리언스 펠리컨스\",\"score\":\"114-91\",\"result\":\"🔴패\"},{\"date\":\"26.11.21\",\"home\":\"오클라호마시티 썬더\",\"away\":\"뉴올리언스 펠리컨스\",\"score\":\"126-120\",\"result\":\"🔴패\"},{\"date\":\"26.11.19\",\"home\":\"뉴올리언스 펠리컨스\",\"away\":\"디트로이트 피스톤스\",\"score\":\"109-122\",\"result\":\"🔴패\"},{\"date\":\"26.11.17\",\"home\":\"뉴올리언스 펠리컨스\",\"away\":\"골든스테이트 워리어스\",\"score\":\"115-94\",\"result\":\"🟢승\"}]"
 injuryHome: "Bradley Beal[주요](Out - Inflammation) | Jordan Miller[주요](Out - Surgery)"
-injuryAway: "Trendon Watford[주요](Out) | Bennedict Mathurin[주요](Out - Plantar Fasciitis) | Julian Reese[경미](Day-To-Day) | Dejounte Murray[주요](Out)"
+injuryAway: "Bennedict Mathurin[주요](Out - Plantar Fasciitis) | Julian Reese[경미](Day-To-Day) | Dejounte Murray[주요](Out)"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
