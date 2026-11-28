@@ -19,7 +19,7 @@ summary: "양 팀 전력 비교를 보면 탬파베이 라이트닝은 리그순
 homeRecent: "[{\"date\":\"26.11.26\",\"home\":\"플로리다 팬더스\",\"away\":\"오타와 세너터스\",\"score\":\"5-3\",\"result\":\"🟢승\"},{\"date\":\"26.11.22\",\"home\":\"플로리다 팬더스\",\"away\":\"버펄로 세이버스\",\"score\":\"4-3\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"플로리다 팬더스\",\"away\":\"에드먼턴 오일러스\",\"score\":\"2-5\",\"result\":\"🔴패\"},{\"date\":\"26.11.16\",\"home\":\"댈러스 스타스\",\"away\":\"플로리다 팬더스\",\"score\":\"2-1\",\"result\":\"🔴패\"},{\"date\":\"26.11.15\",\"home\":\"세인트루이스 블루스\",\"away\":\"플로리다 팬더스\",\"score\":\"1-4\",\"result\":\"🟢승\"}]"
 awayRecent: "[{\"date\":\"26.11.26\",\"home\":\"탬파베이 라이트닝\",\"away\":\"캐롤라이나 허리케인스\",\"score\":\"1-3\",\"result\":\"🔴패\"},{\"date\":\"26.11.23\",\"home\":\"탬파베이 라이트닝\",\"away\":\"버펄로 세이버스\",\"score\":\"2-6\",\"result\":\"🔴패\"},{\"date\":\"26.11.20\",\"home\":\"탬파베이 라이트닝\",\"away\":\"에드먼턴 오일러스\",\"score\":\"3-1\",\"result\":\"🟢승\"},{\"date\":\"26.11.18\",\"home\":\"탬파베이 라이트닝\",\"away\":\"워싱턴 캐피털스\",\"score\":\"5-2\",\"result\":\"🟢승\"},{\"date\":\"26.11.15\",\"home\":\"탬파베이 라이트닝\",\"away\":\"디트로이트 레드윙스\",\"score\":\"0-2\",\"result\":\"🔴패\"}]"
 injuryHome: "Garnet Hathaway[주요](Out) | Jonah Gadjovich[주요](Injured Reserve - Surgery)"
-injuryAway: "Victor Hedman[경미](Day-To-Day) | Erik Cernak[주요](Out) | Pontus Holmberg[주요](Injured Reserve) | Conor Geekie[주요](Injured Reserve)"
+injuryAway: "Erik Cernak[경미](Day-To-Day) | Victor Hedman[경미](Day-To-Day) | Pontus Holmberg[주요](Injured Reserve) | Conor Geekie[주요](Injured Reserve)"
 homeLineup: "[\"선발투수 A. Schmid|https://a.espncdn.com/i/headshots/mlb/players/full/4587845.png\"]"
 awayLineup: "[\"선발투수 D. Hildeby|https://a.espncdn.com/i/headshots/mlb/players/full/5174160.png\"]"
 homeFormation: ""

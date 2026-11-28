@@ -19,7 +19,7 @@ summary: "샬럿 호네츠와 브루클린 네츠의 전력 차이는 크지 않
 homeRecent: "[{\"date\":\"26.11.26\",\"home\":\"샬럿 호네츠\",\"away\":\"시카고 불스\",\"score\":\"105-107\",\"result\":\"🔴패\"},{\"date\":\"26.11.24\",\"home\":\"샬럿 호네츠\",\"away\":\"멤피스 그리즐리\",\"score\":\"111-117\",\"result\":\"🔴패\"},{\"date\":\"26.11.21\",\"home\":\"애틀랜타 호크스\",\"away\":\"샬럿 호네츠\",\"score\":\"111-97\",\"result\":\"🔴패\"},{\"date\":\"26.11.18\",\"home\":\"LA 레이커스\",\"away\":\"샬럿 호네츠\",\"score\":\"118-114\",\"result\":\"🔴패\"},{\"date\":\"26.11.16\",\"home\":\"LA 클리퍼스\",\"away\":\"샬럿 호네츠\",\"score\":\"113-105\",\"result\":\"🔴패\"}]"
 awayRecent: "[{\"date\":\"26.11.26\",\"home\":\"밀워키 벅스\",\"away\":\"브루클린 네츠\",\"score\":\"97-104\",\"result\":\"🟢승\"},{\"date\":\"26.11.24\",\"home\":\"미네소타 팀버울브스\",\"away\":\"브루클린 네츠\",\"score\":\"142-116\",\"result\":\"🔴패\"},{\"date\":\"26.11.21\",\"home\":\"브루클린 네츠\",\"away\":\"올랜도 매직\",\"score\":\"111-113\",\"result\":\"🔴패\"},{\"date\":\"26.11.19\",\"home\":\"브루클린 네츠\",\"away\":\"시카고 불스\",\"score\":\"107-137\",\"result\":\"🔴패\"},{\"date\":\"26.11.17\",\"home\":\"브루클린 네츠\",\"away\":\"필라델피아 76ers\",\"score\":\"123-135\",\"result\":\"🔴패\"}]"
 injuryHome: "Grayson Allen[주요](Out) | Ryan Kalkbrenner[경미](Day-To-Day - Soreness) | Dennis Schroder[주요](Out - Strain) | Kon Knueppel[주요](Out - Strain)"
-injuryAway: "Moritz Wagner[주요](Out - Soreness) | Nolan Traore[주요](Out - Strain)"
+injuryAway: "Moritz Wagner[경미](Day-To-Day - Soreness) | Nolan Traore[주요](Out - Strain)"
 homeLineup: ""
 awayLineup: ""
 homeFormation: ""
